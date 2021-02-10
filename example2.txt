@@ -1,0 +1,4 @@
+fn main() {
+	# A sum of 4 numbers
+	println!(4 + 3);
+}
